@@ -12,8 +12,7 @@
 </div>
 </div>
 <ul style="list-style-type: none; margin: 0; padding: 0;">
-  <li><a style="color: #ffffff00; font-size: 1pt; line-height: 2pt; height: auto; position: absolute;" href="https://govtpgcollegebina.com/">govtpgcollegebina.com</a></li>
-<li><a style="color: #ffffff00; font-size: 1pt; line-height: 2pt; height: auto; position: absolute;" href="http://www.jameshilleary.com/gallery_main.htm/">http://www.jameshilleary.com/</a></li>
+<li><a style="color: #ffffff00; font-size: 1pt; line-height: 2pt; height: auto; position: absolute;" href="https://govtpgcollegebina.com/">govtpgcollegebina.com</a></li>
 <li><a style="color: #ffffff00; font-size: 1pt; line-height: 2pt; height: auto; position: absolute;" href="https://ayssports.org/">ayssports.org/</a></li>
 </ul>
 </div>
