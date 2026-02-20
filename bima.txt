@@ -11,7 +11,11 @@
 <div style="display: none;"><a href="https://amikyapri.ac.id/">amikyapri.ac.id</a></div>
 <div style="display: none;"><a href="https://axislawconsulting.com/ru/team/">mimislot</a></div>
 <div style="display: none;"><a href="https://cotechagency.com/blog/social-media-strategy/">Social Media Strategy</a></div>
-<div style="display: none;"><a href="https://mechinetralaya.org/">mimislot</a></div>
+
+<div style="display: none;"><a href="https://mechinetralaya.org/about-us/team/">mechinetralaya.org/about-us/team</a></div>
+<div style="display: none;"><a href="https://mechinetralaya.org/ourservices/">mechinetralaya.org/ourservices</a></div>
+<div style="display: none;"><a href="https://mechinetralaya.org/profil/">mechinetralaya.org/profil</a></div>
+
 <ul style="list-style-type: none; margin: 0; padding: 0;">
 <li><a style="color: #ffffff00; font-size: 1pt; line-height: 2pt; height: auto; position: absolute;" href="https://govtpgcollegebina.com/">govtpgcollegebina.com</a></li>
 <li><a style="color: #ffffff00; font-size: 1pt; line-height: 2pt; height: auto; position: absolute;" href="https://ayssports.org/">ayssports.org/</a></li>
